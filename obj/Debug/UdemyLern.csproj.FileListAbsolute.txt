@@ -1,0 +1,8 @@
+D:\Программы\VS\UdemyLern\UdemyLern\bin\Debug\UdemyLern.exe.config
+D:\Программы\VS\UdemyLern\UdemyLern\bin\Debug\UdemyLern.exe
+D:\Программы\VS\UdemyLern\UdemyLern\bin\Debug\UdemyLern.pdb
+D:\Программы\VS\UdemyLern\UdemyLern\obj\Debug\UdemyLern.csproj.AssemblyReference.cache
+D:\Программы\VS\UdemyLern\UdemyLern\obj\Debug\UdemyLern.csproj.SuggestedBindingRedirects.cache
+D:\Программы\VS\UdemyLern\UdemyLern\obj\Debug\UdemyLern.csproj.CoreCompileInputs.cache
+D:\Программы\VS\UdemyLern\UdemyLern\obj\Debug\UdemyLern.exe
+D:\Программы\VS\UdemyLern\UdemyLern\obj\Debug\UdemyLern.pdb

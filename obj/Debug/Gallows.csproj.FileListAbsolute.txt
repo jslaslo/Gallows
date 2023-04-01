@@ -1,0 +1,8 @@
+D:\dergo\Documents\Gallows\bin\Debug\UdemyLern.exe.config
+D:\dergo\Documents\Gallows\bin\Debug\UdemyLern.exe
+D:\dergo\Documents\Gallows\bin\Debug\UdemyLern.pdb
+D:\dergo\Documents\Gallows\obj\Debug\Gallows.csproj.AssemblyReference.cache
+D:\dergo\Documents\Gallows\obj\Debug\Gallows.csproj.SuggestedBindingRedirects.cache
+D:\dergo\Documents\Gallows\obj\Debug\Gallows.csproj.CoreCompileInputs.cache
+D:\dergo\Documents\Gallows\obj\Debug\UdemyLern.exe
+D:\dergo\Documents\Gallows\obj\Debug\UdemyLern.pdb
